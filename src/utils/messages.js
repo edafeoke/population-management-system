@@ -1,0 +1,9 @@
+export const appWelcomeMessage = 'Welcome to Population management system.';
+export const duplicateError = 'Record exists already.'
+export const created = 'Record successfully created.'
+export const updateSuccess = 'Record successfully updated.'
+export const allLocations = 'All existing locations.'
+export const success = 'Success.'
+export const recordNotFound = 'Record not found.'
+export const serverError = 'Something bad happened.'
+export const noRecords = 'No records in the database.'
